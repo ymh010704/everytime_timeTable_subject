@@ -1,3 +1,7 @@
+# 사용자의 ID와 PW는 임의로 구현했다.
+# ID : student
+# PW : 1234
+
 class LectureDB:
     # 강의 정보를 담을 임시 강의 DB
     def __init__(self):
